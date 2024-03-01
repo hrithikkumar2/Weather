@@ -23,3 +23,4 @@ cd weather-website
 npm install
 npm install
 npm start
+ 
